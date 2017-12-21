@@ -3,3 +3,19 @@
   margin-left:10px;
   margin-bottom: 5px;
 }
+#account .col-left{
+  min-width:14%;
+  float:left;
+  margin-right:30px;
+}
+#account .col-right{
+  overflow: hidden;
+}
+#balance .col-left{
+  min-width:14%;
+  float:left;
+  margin-right:30px;
+}
+#balance .col-right{
+  overflow: hidden;
+}
